@@ -18,6 +18,8 @@
         <activity android:name=".acitivity.MainActivity" />
         <activity android:name=".acitivity.SettingActivity" >
         </activity>
+        <activity android:name=".acitivity.AddActivity" >
+        </activity>
     </application>
 
 </manifest>
